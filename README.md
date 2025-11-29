@@ -3,8 +3,6 @@
 A fun and interactive **Wordle-inspired** guessing game built with **vanilla JavaScript, HTML, and CSS**.  
 Guess the hidden 6-letter word in 6 tries. Get color feedback just like the original Wordle!
 
-Live Demo: [Click here to play](#) *(replace with your live link when hosted)*
-
 ## Features
 
 - 6-letter word to guess in 6 attempts
